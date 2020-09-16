@@ -8,4 +8,4 @@ Similar to nginx-control but for apache2
 
 2- cd into the dir `cd a2control`
 
-3- Run the installer as *root* `./installer.sh`
+3- Run the installer as **root** `./installer.sh`
